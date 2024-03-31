@@ -1,3 +1,3 @@
 # Proposal-Script
 
-This Script based on computer language like ( HTML, CSS, and JAVA SCRIPT) 
+This Script based on computer languages like ( HTML, CSS, and JAVA SCRIPT) 
